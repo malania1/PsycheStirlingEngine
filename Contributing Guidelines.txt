@@ -1,0 +1,16 @@
+# How to contribute
+
+We appreciate that you are reading this, because we need volunteer developers, students, and researchers to help build upon this project for the future of space applications.
+
+## Submitting changes
+
+We can always use more test coverage. Please follow our coding conventions and make sure all of your commits are defined one at a time.
+
+Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
+
+    $ git commit -m "A brief summary of the commit
+    > 
+    > A paragraph describing what changed and its impact."
+
+Thanks,
+Marc Alania, Mohammed Almozahmi, William "Chase" McPherson, Muhannad Alsulaiman, and Zoe Wilderspin
